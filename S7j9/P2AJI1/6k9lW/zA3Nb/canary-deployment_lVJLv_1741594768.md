@@ -2,6 +2,5 @@
 
 [k8s-workers]
 
-[k8s-workers:vars]
 K8S_MASTER_NODE_IP=
 K8S_API_SERCURE_PORT=6443
