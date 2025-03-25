@@ -633,7 +633,6 @@
   - Enclosed the listing scrolling area within the table so that the horizontal scrollbar and table header are always reachable ([#2505](https://github.com/pocketbase/pocketbase/issues/2505)).
   - Allowed opening the record preview/update form via direct URL ([#2682](https://github.com/pocketbase/pocketbase/discussions/2682)).
   - Reintroduced the local `date` field tooltip on hover.
-  - Speed up the listing loading times for records with large `editor` field values by initially fetching only a partial of the records data (the complete record data is loaded on record preview/update).
   - Added "Media library" (collection images picker) support for the TinyMCE `editor` field.
   - Added support to "pin" collections in the sidebar.
   - Added support to manually resize the collections sidebar.
