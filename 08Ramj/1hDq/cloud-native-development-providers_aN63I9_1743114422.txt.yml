@@ -1,7 +1,6 @@
 site_name: Vaccine Cold Chain Monitoring
 repo_url: https://github.com/ibm-cloud-architecture/vaccine-cold-chain.git
 nav:
-  - Introduction: 
     - What you will learn: index.md
   - Environments:
     - Event Streams environment: environments/event-streams.md
