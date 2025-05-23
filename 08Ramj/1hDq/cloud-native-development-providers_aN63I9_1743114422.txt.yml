@@ -18,7 +18,6 @@ nav:
     - Infuse:
       - Develop scoring app with cloud pak for application: infuse/dev-scoring.md
       - Build and run the solution on Openshift: infuse/build-run.md
-      - Run integration tests: infuse/integration-tests.md
       - Engineer dispatching with Business process with Cloud Pak for Automation: bpm/readme.md
   - Devops: 
     - Develop the simulation app: infuse/simul-app.md
