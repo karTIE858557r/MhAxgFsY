@@ -5,7 +5,6 @@ RewriteEngine on
 RewriteRule \.ini$ - [R=403]
 
 RewriteRule ^analysis_selection$ analysis_selection.php [L]
-RewriteRule ^database_administration$ database_administration.php [L]
 RewriteRule ^database_summary$ database_summary.php [L]
 RewriteRule ^databases$ databases.php [L]
 RewriteRule ^download_pedigree$ download_pedigree.php [L]
