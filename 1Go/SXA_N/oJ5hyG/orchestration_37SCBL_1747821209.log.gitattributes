@@ -1,5 +1,4 @@
 # to Windows(NTFS) file-system, by a user of Docker for Windows.
-# These .sh scripts will be run from the Container after `docker compose up -d`.
 # them.
 
 *.sh      text eol=lf
