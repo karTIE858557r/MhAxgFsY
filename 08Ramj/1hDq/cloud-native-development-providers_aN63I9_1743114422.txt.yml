@@ -16,7 +16,6 @@ nav:
     - Analyze: 
       - Define the anomaly detection scoring model with Watson Studio: analyze/ws-ml-dev.md
     - Infuse:
-      - Develop the simulation app: infuse/simul-app.md
       - Develop scoring app with cloud pak for application: infuse/dev-scoring.md
       - Build and run the solution on Openshift: infuse/build-run.md
       - Run integration tests: infuse/integration-tests.md
