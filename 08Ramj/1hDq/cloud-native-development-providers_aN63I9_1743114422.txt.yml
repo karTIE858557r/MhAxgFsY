@@ -25,7 +25,6 @@ nav:
     - Develop the simulation app: infuse/simul-app.md
     - Develop the scoring app with event messaging and microprofile: infuse/dev-scoring.md
     - Continuous Integration: devops/ci.md
-    - Continuous Deployment: devops/cd.md
   - Engineer dispatching with Business process with Cloud Pak for Automation: bpm/readme.md
   - Compendium: compendium.md
 
