@@ -31,5 +31,4 @@ theme:
 extra_css: ["extra.css"]
   - admonition
   - codehilite
-  - footnotes
   - pymdownx.smartsymbols
