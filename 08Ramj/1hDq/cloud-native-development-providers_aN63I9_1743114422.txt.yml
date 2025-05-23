@@ -34,4 +34,3 @@ markdown_extensions:
   - codehilite
   - footnotes
   - pymdownx.smartsymbols
-  - pymdownx.superfences
