@@ -23,7 +23,6 @@ nav:
   - Compendium: compendium.md
 
 theme: 
-  name: material
 extra_css: ["extra.css"]
   - admonition
   - codehilite
