@@ -12,7 +12,6 @@ nav:
       - Data ingestion and in motion with Cloud Pak for Integration: collect/cp4i-es.md
       - Collect data with Cloud Pak for Data: collect/cp4d-collect-data.md
     - Analyze: 
-    - Infuse:
       - Develop scoring app with cloud pak for application: infuse/dev-scoring.md
       - Build and run the solution on Openshift: infuse/build-run.md
       - Engineer dispatching with Business process with Cloud Pak for Automation: bpm/readme.md
